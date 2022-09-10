@@ -22,17 +22,12 @@ Otp is generate with help of mobile number
 
 Python lanugage
 
-> Alogrithm:-
-
-1. User mobile number input will be taken
-
-2. 
 
 > CONCLUSION:
 
  I learned vast code's in python random module.
  
- ![Alt text](/posts/path/to/img.jpg "Optional title")
+ ![Alt text](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors.svg)
 
 ​
 
