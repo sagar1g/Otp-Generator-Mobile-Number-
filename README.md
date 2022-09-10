@@ -27,7 +27,6 @@ Python lanugage
 
  I learned vast code's in python random module.
  
- ![Alt text](https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors.svg)
 
 ​
 
