@@ -1,16 +1,16 @@
-:iphone: **OTP GENERATE WITH HELP OF MOBILE NUMBER**
+:iphone: **OTP GENERATE WITH HELP OF MOBILE NUMBER** :iphone:
 
-**Berif introduction about this  project.**
+*Berif introduction about this  project.*
 
-> INTRODUCTION:
+> **INTRODUCTION**:
 
-Otp is generate with help of mobile number
+- Otp is generate with help of mobile number
 
-> OBJECTIVE OF PROJECT:
+> **OBJECTIVE OF PROJECT**:
 
- To use and understnad python's random module
+- To use and understnad python's random module
 
-> WORKING:
+> **WORKING**:
 
 1. User firstly enter valid mobile number.
 
@@ -18,14 +18,14 @@ Otp is generate with help of mobile number
 
 3. If someone put a wrong mobile number then otp not gonna generate,you have to enter proper valid mobile number.
 
-> Dependencies:- 
+> **Dependencies**:- 
 
-Python lanugage
+- [x] Python lanugage
 
 
-> CONCLUSION:
+> **CONCLUSION**:
 
- I learned vast code's in python random module.
+- [ ] I learned vast code's in python random module.
  
 ![This is image](https://web-dev.imgix.net/image/admin/iVHsQYbBj8qNYZeSZKwK.png?auto=format&w=1600)
 ​
