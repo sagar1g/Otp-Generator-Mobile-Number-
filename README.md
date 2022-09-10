@@ -1,6 +1,6 @@
->OTP GENERATE WITH HELP OF MOBILE NUMBER
+:iphone: **OTP GENERATE WITH HELP OF MOBILE NUMBER**
 
-Berif introduction about this  project.
+**Berif introduction about this  project.**
 
 > INTRODUCTION:
 
