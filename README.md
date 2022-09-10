@@ -2,7 +2,7 @@
 
 INTRODUCTION:
 
-. Otp is generate with help of mobile number
+> Otp is generate with help of mobile number
 
 OBJECTIVE OF PROJECT:
 
