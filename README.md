@@ -18,8 +18,21 @@ Otp is generate with help of mobile number
 
 3. If someone put a wrong mobile number then otp not gonna generate,you have to enter proper valid mobile number.
 
+> Dependencies:- 
+
+Python lanugage
+
+> Alogrithm:-
+
+1. User mobile number input will be taken
+
+2. 
+
 > CONCLUSION:
 
  I learned vast code's in python random module.
+ 
+ ![Alt text](/posts/path/to/img.jpg "Optional title")
+
 ​
 
