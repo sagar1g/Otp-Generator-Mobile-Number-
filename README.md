@@ -1,5 +1,6 @@
 INTRODUCTION:
 Otp is generate with help of mobile number
+
 OBJECTIVE OF PROJECT:
 To use and understnad python's random module
 
