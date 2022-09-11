@@ -1,4 +1,4 @@
-:iphone: # OTP GENERATE WITH HELP OF MOBILE NUMBER # :iphone:
+# :iphone:  OTP GENERATE WITH HELP OF MOBILE NUMBER  :iphone:
 
 - [x] *Berif introduction about this  project.*
 
