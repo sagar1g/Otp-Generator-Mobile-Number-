@@ -1,6 +1,6 @@
 :iphone: **OTP GENERATE WITH HELP OF MOBILE NUMBER** :iphone:
 
-*Berif introduction about this  project.*
+- [x] *Berif introduction about this  project.*
 
 > **INTRODUCTION**:
 
