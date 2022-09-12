@@ -28,5 +28,9 @@
 - [ ] I learned vast code's in python random module.
  
 ![This is image](https://web-dev.imgix.net/image/admin/iVHsQYbBj8qNYZeSZKwK.png?auto=format&w=1600)
+
+# result:- 
+
+![otp](https://user-images.githubusercontent.com/113135493/189590515-11821cd8-bfd8-4106-a7cd-43c36a6b96df.png)
 ​
 
